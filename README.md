@@ -4,12 +4,12 @@
   <img src="pikachu.gif" width=30% />
 </p>
 
-### I am Kenneth Chyzewski 🙋‍♂️
+### I am Kenneth/ Kenny 🙋‍♂️
 ### 👨‍💻 &nbsp;About Me
 
 - 🔭 &nbsp; Exploring new technologies and developing cool things. Currently learning Swift and Computer Vision for a gaming utility app.
 - 🎓 &nbsp; HBSc Computer Science Specialist Graduate from UofT.
-- 💼 &nbsp; Software Development Engineer at MANGA. Previously worked at UofT, CONTAX and RBC.
+- 💼 &nbsp; Software Development Engineer at <X>. Previously worked at Amazon, UofT, RBC and Contax.
 - 👾 &nbsp; Hobbies include Coding, Gaming, Content Creation, Investing and Cars.
 
 ### 🛠 &nbsp;Tech Stack
